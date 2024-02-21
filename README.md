@@ -22,4 +22,9 @@ Para executar o aplicativo, basta abrir o arquivo index.html em um navegador da 
 Observações
 Certifique-se de estar conectado à internet para que as taxas de câmbio sejam atualizadas corretamente.
 As taxas de câmbio são obtidas da API pública do AwesomeAPI, portanto, esteja ciente das políticas de uso e possíveis limitações.
+
+
+
+![image](https://github.com/Ceciliadsb/CONVERSOR-MOEDAS/assets/91300922/df0e0c60-c611-4def-aaa9-1a34c0579313)
+
 Desenvolvido por [Cecilia dos Santos Batista ] - [2022]
